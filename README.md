@@ -11,8 +11,8 @@ Our team is dedicated to delivering high-quality, enjoyable experiences primaril
 
 In this repository, you can find our official legal documents:
 
-- [Privacy Policy](https://github.com/fabron-studio/lupara/privacy-policy.html)
-- [Terms of Service](https://github.com/fabron-studio/lupara/terms-of-service.html)
+- [Privacy Policy](https://github.com/fabron-studio/lupara/blob/main/privacy-policy.html)
+- [Terms of Service](https://github.com/fabron-studio/lupara/blob/main/terms-of-service.html)
 
 These documents explain how we handle user data, our compliance with international laws, and the conditions for using our games.
 
